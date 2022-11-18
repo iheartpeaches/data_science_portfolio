@@ -10,11 +10,11 @@ h1 {
 }
 
 h2{
-  color: #b2ebf2;
+  color: #A37200;
 }
 
 h3 {
-  color: #ee8572;;
+  color: #06284C;;
 }
 p{
   display: block;
@@ -28,7 +28,7 @@ img{
 /* Classes */
 
 a {
-  color: #b2ebf2;
+  color: #A37200;
   margin: 20px;
 }
 
@@ -38,7 +38,7 @@ a:hover {
 
 hr {
   border-style: dotted none none  ;
-  border-color: #b2ebf2;
+  border-color: #A37200;
   border-width: 5px;
   height: 0;
   width: 5%;
@@ -46,7 +46,7 @@ hr {
 
 
 .top_container {
-background-color: #ee8572;
+background-color: #06284C;
  padding: 100px 50px 80px 50px;
  position: relative;
 }
@@ -63,7 +63,7 @@ background-color: #ee8572;
 }
 
 .second_middle_container{
-  background-color: #347474;
+  background-color: #403C12;
   padding: 50px;
 
   border: 10px,20px,20px,20px;
@@ -71,7 +71,7 @@ background-color: #ee8572;
 }
 
 .bottom_container{
-  background-color: #ee8572;
+  background-color: #5F5A1B;
   padding: 50px;
 
   border: 10px,20px,20px,20px;
@@ -117,7 +117,7 @@ font-weight: bold;
 .dot {
   height: 7px;
   width: 7px;
-  background-color: #588da8;
+  background-color: #A37200;
   border-radius: 50%;
   display: inline-block;
 }
@@ -155,9 +155,9 @@ line-height: 2;
 
 
 .btn {
-background: #b2ebf2;
+background: #35495e;
 border-radius: 10px;
-color: #ee8572;
+color: #A37200;
 font-family: 'Merriweather', serif;
 font-size: 20px;
 font-weight: 50em;
@@ -193,7 +193,22 @@ border: solid #337FED 1px;
 
 blue: #35495e
 
+main blue: 588da8
+
 dark green: #347474
 
 aqua:#347474
+
+dark blue: #06284C
+
+gold: #A37200
+
+dark olive: #403C12
+
+lighter olive: #5F5A1B
+
+dark cadet: #729EA1
+
+blizzard blue: #B2EBF2
+
 */
