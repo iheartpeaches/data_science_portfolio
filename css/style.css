@@ -10,7 +10,7 @@ h1 {
 }
 
 h2{
-  color: #A37200;
+  color: #CC8F00;
 }
 
 h3 {
@@ -28,7 +28,7 @@ img{
 /* Classes */
 
 a {
-  color: #A37200;
+  color: #CC8F00;
   margin: 20px;
 }
 
@@ -38,7 +38,7 @@ a:hover {
 
 hr {
   border-style: dotted none none  ;
-  border-color: #A37200;
+  border-color: #CC8F00;
   border-width: 5px;
   height: 0;
   width: 5%;
@@ -117,7 +117,7 @@ font-weight: bold;
 .dot {
   height: 7px;
   width: 7px;
-  background-color: #A37200;
+  background-color: #CC8F00;
   border-radius: 50%;
   display: inline-block;
 }
@@ -201,7 +201,7 @@ aqua:#347474
 
 dark blue: #06284C
 
-gold: #A37200
+gold: #A37200 #CC8F00
 
 dark olive: #403C12
 
